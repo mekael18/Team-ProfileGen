@@ -1,4 +1,4 @@
-const Engineer = require('../lib/Engineer');
+const Engineer = require('../lib/engineer');
 
 describe('Engineer', () => {
     it('should set the github username of the engineer', () => {
