@@ -1,0 +1,29 @@
+{
+    "name": "team-profilegen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mekael18/team-profilegen.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^26.5.2"
+    },
+    "bugs": {
+        "url": "https://github.com/mekael18/team-profilegen/issues"
+    },
+    "homepage": "https://github.com/mekael18/team-profilegen#readme",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    }
+}
